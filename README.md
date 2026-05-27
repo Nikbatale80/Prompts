@@ -49,3 +49,4 @@ Smooth animations and hover effects
 Professional icons and charts
 Fast loading and user-friendly navigation
 Generate complete HTML, CSS, JavaScript, and backend-ready structure with clean code organization.
+project URL :- https://grumpy-spark-your-study.base44.app
